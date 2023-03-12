@@ -4,17 +4,17 @@ Shell written in C.
 
 
 
+## ***Features:***
 
-Features:
 
-Basic commands: exit, cd
+- Basic commands: exit, cd
 
-Forks and child processes
+- Forks and child processes
 
-I/O redirection (both with <, >, >>)
+- I/O redirection (both with <, >, >>)
 
-Supports jobs and fg
+- Supports jobs and fg
 
-Multiple Piping
+- Multiple Piping
 
-Signal Handling
+- Signal Handling
