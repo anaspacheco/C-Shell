@@ -1,2 +1,20 @@
 # C-Shell
-Basic shell in C (supports pipes, IO redirection, jobs, and basic commands)
+Shell written in C.
+
+
+
+
+
+Features:
+
+Basic commands: exit, cd
+
+Forks and child processes
+
+I/O redirection (both with <, >, >>)
+
+Supports jobs and fg
+
+Multiple Piping
+
+Signal Handling
