@@ -21,7 +21,7 @@ To start using C-Shell, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Compile the C code. 
-3. Run ./nyush.c 
+3. Run ./cshell.c 
 
 
 ## Example
