@@ -1,4 +1,4 @@
-# C-Shell - A Feature-Rich Shell written in C
+# C-Shell
 
 
 ## Features
