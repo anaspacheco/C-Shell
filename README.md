@@ -23,7 +23,3 @@ To start using C-Shell, follow these steps:
 2. Compile the C code. 
 3. Run ./cshell.c 
 
-
-## Example
-
-Here's an example of using C-Shell:
